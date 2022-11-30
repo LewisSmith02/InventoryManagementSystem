@@ -1,0 +1,148 @@
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.exe
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.deps.json
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.runtimeconfig.json
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\ref\InventoryManagementSystem.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.pdb
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\ExcelLibrary.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.ResolveComReference.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.HomePageEMP.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.HomePageIM.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.HomePageSIM.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.Login.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageCategories.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageOrders.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageProducts.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageProductsEMP.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageSuppliers.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageUsers.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ViewOrders.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.CopyComplete
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\ref\InventoryManagementSystem.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.pdb
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystemPrototype\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.exe
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.deps.json
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.runtimeconfig.json
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\ref\InventoryManagementSystem.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\InventoryManagementSystem.pdb
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\ExcelLibrary.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.ResolveComReference.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.HomePageEMP.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.HomePageIM.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.HomePageSIM.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.Login.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageCategories.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageOrders.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageProducts.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageProductsEMP.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageSuppliers.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ManageUsers.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystemPrototype.ViewOrders.resources
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.csproj.CopyComplete
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\ref\InventoryManagementSystem.dll
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.pdb
+C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem (Project)\InventoryManagementSystemPrototype\obj\Debug\net6.0-windows\InventoryManagementSystem.genruntimeconfig.cache

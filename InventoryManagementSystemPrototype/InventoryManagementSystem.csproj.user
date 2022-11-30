@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\UniversityWork\year1\software-systems\Prototype\InventoryManagementSystem %28Project%29\InventoryManagementSystemPrototype\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="HomePageEMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePageIM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePageSIM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageProductsEMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageSuppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
