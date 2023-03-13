@@ -20,4 +20,4 @@ An inventory management system, where user(s) can simulate a multi-tier user fun
 - Managing product orders
 
 # HOW TO USE 
-- TBC
+TBC
